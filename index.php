@@ -9,13 +9,9 @@
 <body>
     
 <form action="/action_page.php">
-  First name:<br>
-  <input type="text" name="firstname" value="">
-  <br>
-  Last name:<br>
-  <input type="text" name="lastname" value="">
-  <br><br>
-  <input type="submit" value="Submit">
+  <input type="text" name="num1" placeholder="Number 1">
+  <input type="text" name="num2" placeholder="Number 2">
+  <input type="submit" value="Submit"> 
 </form> 
 
     
